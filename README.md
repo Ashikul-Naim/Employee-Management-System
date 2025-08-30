@@ -27,10 +27,6 @@ It allows administrators to add, update, delete, and view employee details, whil
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/employee-management-system.git
 C:/xampp/htdocs/employee-management-system
 $host = "localhost";
 $user = "root";
@@ -48,3 +44,8 @@ employee-management-system/
 │── config.php       # Database connection
 │── ems.sql          # Database file
 │── assets/          # CSS, JS, Images
+
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/employee-management-system.git
